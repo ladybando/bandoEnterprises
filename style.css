@@ -1,0 +1,40 @@
+
+.head-text { 
+  text-align: left;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-200%, -50%);
+  color: white;
+}
+
+.head-image{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("mapletree.jpg");
+    height:310px;
+    background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	position: relative;
+ }
+
+.intro {
+  color: rgb(60, 179, 113);
+  margin: 100px;
+  position: relative;
+  line-height: 0.9;
+  text-align: left;
+}
+
+img{
+	opacity: 1;
+	position: relative;
+	padding-right: 10px;
+	padding-bottom: 25px;
+	width:300px;
+	height:400px;
+	margin: 25px;
+}
+
+p{
+	margin: 50px;
+}
