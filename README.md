@@ -1,2 +1,0 @@
-# bandoEnterprises
-Project website
